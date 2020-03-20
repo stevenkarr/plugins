@@ -1,4 +1,4 @@
-This fork is a copy from c4d53b6881381da104530cac6710b6fda31cb5da, the repo at the state of the release of webview_flutter ^0.3.19+4. This fork contains a much needed fix to prevent dropdowns from causing crashes on Android. The change in this fork is basically this pull request: https://github.com/flutter/plugins/pull/2535 for this issue: https://github.com/flutter/flutter/issues/25767.
+This fork is a copy from c4d53b6881381da104530cac6710b6fda31cb5da, the repo at the state of the release of webview_flutter ^0.3.19+9. This fork contains a much needed fix to prevent dropdowns from causing crashes on Android. The change in this fork is basically this pull request: https://github.com/flutter/plugins/pull/2535 for this issue: https://github.com/flutter/flutter/issues/25767.
 
 # Flutter plugins
 
